@@ -6,7 +6,7 @@ namespace AppExecFixacaoInterface
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
         }
     }
 }
